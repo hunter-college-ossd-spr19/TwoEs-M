@@ -1,5 +1,5 @@
 Welcome
 
-Eli - maintainer
-Emma - contributer
-Mike - contributer
+Eli - maintainer   
+Emma - contributer   
+Mike - contributer   
