@@ -12,3 +12,7 @@ We learned how to fork a repo and set up a remote url so that we can push commit
 ## Section 5
 
 We learned how to submit issues, and each contributer (Emma and Mike) created one.
+
+## Section 6
+
+We worked on issuing pull requests to fix existing issues.
